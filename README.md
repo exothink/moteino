@@ -1,4 +1,4 @@
 moteino
 =======
 
-Arduino code compatible radio interface board files.
+Arduino code compatible, radio interface board, files.
