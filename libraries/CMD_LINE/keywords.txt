@@ -1,0 +1,12 @@
+#######################################
+# for CMD_LINE
+#######################################
+CMD_LINE	KEYWORD1
+isCommand	KEYWORD2
+isNotCommand	KEYWORD2
+printBuffer	KEYWORD2
+parse	KEYWORD2
+getSerialInput	KEYWORD2
+arg	KEYWORD2
+charCnt	KEYWORD2
+rawStr	KEYWORD2
